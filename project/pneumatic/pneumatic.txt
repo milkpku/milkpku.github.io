@@ -1,0 +1,10 @@
+@article{Ma:2017:CDF, 
+  author  = {Ma, Li-Ke and Zhang, Yizhong and Liu, Yang and Zhou, Kun and Tong, Xin}, 
+  title   = {\href{https://milkpku.github.io/project/pneumatic/Pneumatic_high.pdf}{Computational Design and Fabrication of Soft Pneumatic
+  Objects with Desired Deformations}},
+  journal = {ACM Trans. Graph. (SIGGRAPH Asia)}, 
+  volume  = {36},    
+  number  = {6},
+  year    = {2017},
+  publisher = {ACM},
+}
