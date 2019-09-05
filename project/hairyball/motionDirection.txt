@@ -1,0 +1,8 @@
+@article{Ma:2019:TRD, 
+  author  = {Ma, Li-Ke and Yang, Zeshi and Guo, Baining and Yin, KangKang}, 
+  title   = {Towards Robust Direction Invariance in Character Animation},
+  journal = {Computer Graphics Forum (Pacific Graphics)}, 
+  volume  = {38},
+  number  = {7},
+  year    = {2019},
+}
