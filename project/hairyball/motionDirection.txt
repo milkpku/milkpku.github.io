@@ -4,5 +4,6 @@
   journal = {Computer Graphics Forum},
   volume  = {38},
   number  = {7},
+  pages   = {235--242}
   year    = {2019},
 }
